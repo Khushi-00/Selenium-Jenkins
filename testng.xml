@@ -7,7 +7,7 @@
     <classes>
 
 
-       <class name="com.wipro.capestone.DemoBlazeTests"/>
+       <class name="wiproTestNG.TestNGGroupcase"/>
     </classes>
   </test>
 
